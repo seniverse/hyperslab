@@ -1,0 +1,11 @@
+{application, hyperslab,
+ [
+  {description, ""},
+  {vsn, "git"},
+  {registered, []},
+  {applications, []},
+  {env, []},
+  {licenses, ["Apache"]},
+  {links,[{"GitHub","https://github.com/seniverse/hyperslab"}]}
+ ]
+}.
